@@ -1,5 +1,20 @@
 # 🐾 Pet Manager — Учёт домашних животных 🐕🐈
+# Pet Manager - Командная разработка (ЛР №3)
 
+**Участники команды:**
+- @anyveh
+- @pechegurovapolina7-pixel
+
+**Калькулятор функций:**
+- `add(a, b)` - сложение
+- `subtract(a, b)` - вычитание
+- `multiply(a, b)` - умножение
+
+## Запуск
+```bash
+python calculator_add.py
+python calculator_subtract.py
+python calculator_multiply.py
 
 
 ### *Забота о ваших питомцах в несколько кликов*
